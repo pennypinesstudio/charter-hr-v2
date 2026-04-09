@@ -195,7 +195,7 @@ button { font-family: inherit; cursor: pointer; border: none; }
 }
 .hero-headline {
     font-family: var(--font-hed);
-    font-weight: 800;
+    font-weight: 700;
     font-size: clamp(60px, 8vw, 96px);
     line-height: 0.9;
     color: #ffffff;
@@ -264,7 +264,7 @@ button { font-family: inherit; cursor: pointer; border: none; }
 }
 .credibility-name {
     font-family: var(--font-hed);
-    font-weight: 800;
+    font-weight: 700;
     font-size: 22px;
     letter-spacing: -0.01em;
     color: var(--on-surface);
@@ -283,7 +283,7 @@ button { font-family: inherit; cursor: pointer; border: none; }
 }
 .section-title {
     font-family: var(--font-hed);
-    font-weight: 800;
+    font-weight: 700;
     font-size: 36px;
     letter-spacing: -0.01em;
     margin-bottom: 16px;
@@ -374,7 +374,7 @@ button { font-family: inherit; cursor: pointer; border: none; }
 }
 .process-title {
     font-family: var(--font-hed);
-    font-weight: 800;
+    font-weight: 700;
     font-size: 46px;
     line-height: 1;
     color: #ffffff;
@@ -403,7 +403,7 @@ button { font-family: inherit; cursor: pointer; border: none; }
 .step-num {
     display: block;
     font-family: var(--font-hed);
-    font-weight: 800;
+    font-weight: 700;
     font-size: 48px;
     line-height: 1;
     color: var(--primary-light);
@@ -453,7 +453,7 @@ button { font-family: inherit; cursor: pointer; border: none; }
 }
 .portal-title {
     font-family: var(--font-hed);
-    font-weight: 800;
+    font-weight: 700;
     font-size: 42px;
     line-height: 1.1;
     margin-bottom: 24px;
@@ -690,7 +690,7 @@ button { font-family: inherit; cursor: pointer; border: none; }
     align-items: center;
     justify-content: center;
     font-family: var(--font-hed);
-    font-weight: 800;
+    font-weight: 700;
     font-size: 15px;
     color: var(--primary-light);
     flex-shrink: 0;
@@ -789,7 +789,7 @@ button { font-family: inherit; cursor: pointer; border: none; }
 }
 .final-cta-title {
     font-family: var(--font-hed);
-    font-weight: 800;
+    font-weight: 700;
     font-size: clamp(48px, 6vw, 72px);
     margin-bottom: 24px;
     letter-spacing: -0.01em;
