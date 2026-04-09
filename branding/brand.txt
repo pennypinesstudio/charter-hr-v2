@@ -1,0 +1,54 @@
+## Colors
+
+Primary Blue (CTA)
+#1087FE
+
+Secondary Blue (Subtle actions)
+#a8c8ff
+
+Charcoal Background
+#32383D
+
+Mid Gray (Section backgrounds)
+#3e4349
+
+White
+#FFFFFF
+
+## Typography
+
+Primary Heading Font
+Barlow Condensed
+
+Usage
+- Hero headline (H1)
+- Section headers (H2)
+- CTA headlines
+- Navigation
+
+Weights
+- Bold (primary)
+- ExtraBold / Black (hero only)
+
+---
+
+Body & UI Font
+Inter
+
+Usage
+- Paragraph text
+- Supporting copy
+- Buttons
+- Labels
+- Navigation (if needed for readability)
+
+Weights
+- Regular
+- Medium
+- SemiBold (for emphasis)
+
+---
+
+Fallbacks
+- Arial
+- sans-serif
